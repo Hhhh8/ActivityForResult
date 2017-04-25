@@ -17,12 +17,12 @@
         android:id="@+id/Button_ok"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
+
         android:text="입력완료"/>
     <Button
         android:id="@+id/Button_cancel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
+
         android:text="취소"/>
 </LinearLayout>
